@@ -1,0 +1,5 @@
+﻿
+interface IGiver
+{
+    string GetInfo();
+}
